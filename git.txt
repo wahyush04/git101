@@ -1,0 +1,47 @@
+git add .
+git commit -m "Altairs"
+git push
+
+1. Sublime Text Keymap - 3:25
+2A. Open In Browser - 4:12
+2B. Live Server - 5:23
+3. Auto Rename Tag - 6:57
+4. Intellisense For CSS Classnames - 8:03
+5. CSS Peek - 10:22
+6. Indent Rainbow - 12:37
+7. Bracket Pair Colorizer - 13:52
+8. Beautify - 15:13
+9. PHP Intellisense - 17:27
+10. One Dark Pro (theme) - 17:54
+
+Pemrograman Mobile	(Senin  | 08.00 - 09.40) \\ Lab Jarkom
+E-COMMERSE 		(Jumat	| 13.50 - 15.30) \\ Lab DKV 1
+WEB SERVICE	 	(Sabtu 	| 08.00 - 09.40) \\ RPL 3
+
+
+
+https://bit.ly/3qz9CTE
+
+7iszfuxfxqPr6JvOggsx
+
+
+https://api.whatsapp.com/send?phone=+628999488990
+
+php artisan make:controller NamaController -r
+php artisan make:migration create_namaTable_table
+php artisan migrate
+php artisan migrate:fresh
+php artisan make:model namaModel
+
+
+composer require livewire/livewire "1.2"
+
+
+github.com/dicodingacademy/a14-made-labs4
+
+
+
+js plugin
+- wow.js
+- Jquery slick
+
